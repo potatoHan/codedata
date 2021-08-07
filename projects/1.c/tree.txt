@@ -1,0 +1,20 @@
+.
+├── bin
+│   ├── debug
+│   │   ├── 1.test.out
+│   │   ├── 2.test.out
+│   │   └── 3.palindrome.out
+│   └── lib
+├── include
+├── makefile
+├── note.md
+├── obj
+├── README
+├── src
+│   └── xue.kaikeba.com
+│       ├── 1.test.c
+│       ├── 2.test.c
+│       └── 3.palindrome.c
+└── tree.txt
+
+7 directories, 10 files
